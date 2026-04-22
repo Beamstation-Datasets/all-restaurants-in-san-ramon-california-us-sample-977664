@@ -1,12 +1,12 @@
 {
-  "export_job_id": "18119bf2-a08b-4d18-a148-44a486b9804c",
+  "export_job_id": "d9fd1fe2-b62a-4a74-97c9-d44f5937b20b",
   "id_short": 977664,
-  "published_at": "2026-04-17T07:56:36Z",
+  "published_at": "2026-04-22T19:02:42Z",
   "repo_name": "all-restaurants-in-san-ramon-california-us-sample-977664",
   "sample_asset_name": "beamstation_977664_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/977664/beamstation_977664_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "3a9f657ee0f8d37ff7354d1471a4919880ccbfa9949e7c9367cc0e743b024dfc",
-  "sample_size_bytes": 73197,
-  "total_records": 153
+  "sample_records": 10,
+  "sample_sha256": "2b9b5cb2dda42dd3da5238d5438e5c5932ec83c7bf8b33905e8badfb7103fa04",
+  "sample_size_bytes": 54251,
+  "total_records": 109
 }
