@@ -1,6 +1,6 @@
 # All Restaurants in San Ramon, California, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `977664` |
 | Location | San Ramon |
 | Category | Restaurants |
-| Full dataset size | 153 records |
-| Free sample size | 15 records (9.8%) |
-| Last export | 2026-04-14T18:08:43.997686+00:00 |
+| Full dataset size | 109 records |
+| Free sample size | 10 records (9.17%) |
+| Last export | 2026-04-21T19:58:36.151057+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-ramon-california-us-sample-977664/releases/download/sample-latest/beamstation_977664_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
